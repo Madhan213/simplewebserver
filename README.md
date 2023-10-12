@@ -41,7 +41,7 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
-![image](https://github.com/Madhan213/simplewebserver/assets/130206230/f84065b5-d29b-41ac-bce1-86bebe6a9d5a)
+![Screenshot 2023-10-12 094706](https://github.com/Madhan213/simplewebserver/assets/130206230/fc15466a-08a8-44ca-83f6-4d814d36e224)
 
 
 ## RESULT:
